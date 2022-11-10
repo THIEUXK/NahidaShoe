@@ -1,0 +1,15 @@
+S:\A_DAL\B_BUS\bin\Debug\net6.0\B_BUS.deps.json
+S:\A_DAL\B_BUS\bin\Debug\net6.0\B_BUS.dll
+S:\A_DAL\B_BUS\bin\Debug\net6.0\B_BUS.pdb
+S:\A_DAL\B_BUS\bin\Debug\net6.0\A_DAL.dll
+S:\A_DAL\B_BUS\bin\Debug\net6.0\A_DAL.pdb
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.csproj.AssemblyReference.cache
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.GeneratedMSBuildEditorConfig.editorconfig
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.AssemblyInfoInputs.cache
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.AssemblyInfo.cs
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.csproj.CoreCompileInputs.cache
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.csproj.CopyComplete
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.dll
+S:\A_DAL\B_BUS\obj\Debug\net6.0\refint\B_BUS.dll
+S:\A_DAL\B_BUS\obj\Debug\net6.0\B_BUS.pdb
+S:\A_DAL\B_BUS\obj\Debug\net6.0\ref\B_BUS.dll
