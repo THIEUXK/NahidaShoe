@@ -3242,23 +3242,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cuong\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\A_DAL\\B_BUS\\B_BUS.csproj",
+      "projectUniqueName": "E:\\3\\NahidaShoe\\B_BUS\\B_BUS.csproj",
       "projectName": "B_BUS",
-      "projectPath": "S:\\A_DAL\\B_BUS\\B_BUS.csproj",
-      "packagesPath": "C:\\Users\\cuong\\.nuget\\packages\\",
-      "outputPath": "S:\\A_DAL\\B_BUS\\obj\\",
+      "projectPath": "E:\\3\\NahidaShoe\\B_BUS\\B_BUS.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\3\\NahidaShoe\\B_BUS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3274,8 +3274,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "S:\\A_DAL\\A_DAL\\A_DAL.csproj": {
-              "projectPath": "S:\\A_DAL\\A_DAL\\A_DAL.csproj"
+            "E:\\3\\NahidaShoe\\A_DAL\\A_DAL.csproj": {
+              "projectPath": "E:\\3\\NahidaShoe\\A_DAL\\A_DAL.csproj"
             }
           }
         }
