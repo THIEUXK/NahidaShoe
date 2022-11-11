@@ -130,13 +130,16 @@
   <data name="Picsart_22-11-11_01-55-18-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Picsart_22-11-11_01-55-18-321.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Picsart_22-11-11_01-56-27-676" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Picsart_22-11-11_01-56-27-676.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="calendarDark" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\calendarDark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Picsart_22-11-11_01-55-52-111" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Picsart_22-11-11_01-55-52-111.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Picsart_22-11-11_01-56-27-676" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Picsart_22-11-11_01-56-27-676.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="z3847898028975_5ee7ff05f8092486aaff7b938d3a1083" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\z3847898028975_5ee7ff05f8092486aaff7b938d3a1083.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

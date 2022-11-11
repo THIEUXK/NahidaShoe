@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TrangChu));
             this._pnlMenu = new System.Windows.Forms.Panel();
             this._btnTHongKe = new System.Windows.Forms.Button();
             this._btnBanHang = new System.Windows.Forms.Button();
@@ -224,7 +223,7 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Image = global::C_GUI.Properties.Resources.Picsart_22_11_11_01_55_18_321;
             this.pictureBox2.Location = new System.Drawing.Point(0, 203);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(102, 80);
@@ -234,7 +233,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
+            this.pictureBox3.Image = global::C_GUI.Properties.Resources.Picsart_22_11_11_01_55_52_111;
             this.pictureBox3.Location = new System.Drawing.Point(0, 375);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(102, 80);
@@ -244,7 +243,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Image = global::C_GUI.Properties.Resources.Picsart_22_11_11_01_56_27_676;
             this.pictureBox4.Location = new System.Drawing.Point(0, 461);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(102, 80);
@@ -254,7 +253,7 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Image = global::C_GUI.Properties.Resources.Picsart_22_11_11_01_54_23_965;
             this.pictureBox5.Location = new System.Drawing.Point(0, 289);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(102, 80);
